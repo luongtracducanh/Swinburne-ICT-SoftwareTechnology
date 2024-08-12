@@ -1,0 +1,33 @@
+[submodule "SWE30009"]
+	path = SWE30009
+	url = https://github.com/luongtracducanh/SWE30009
+[submodule "COS20019"]
+	path = COS20019
+	url = https://github.com/luongtracducanh/COS20019
+[submodule "COS30017"]
+	path = COS30017
+	url = https://github.com/luongtracducanh/COS30017
+[submodule "COS30043"]
+	path = COS30043
+	url = https://github.com/luongtracducanh/COS30043
+[submodule "COS30020"]
+	path = COS30020
+	url = https://github.com/luongtracducanh/COS30020
+[submodule "COS20007"]
+	path = COS20007
+	url = https://github.com/luongtracducanh/COS20007
+[submodule "SWE30011"]
+	path = SWE30011
+	url = https://github.com/luongtracducanh/SWE30011
+[submodule "COS10004"]
+	path = COS10004
+	url = https://github.com/luongtracducanh/COS10004
+[submodule "COS30008"]
+	path = COS30008
+	url = https://github.com/luongtracducanh/COS30008
+[submodule "COS10009"]
+	path = COS10009
+	url = https://github.com/luongtracducanh/COS10009
+[submodule "COS10005"]
+	path = COS10005
+	url = https://github.com/luongtracducanh/COS10005
